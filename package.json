@@ -1,0 +1,16 @@
+{
+  "name": "mano-lib",
+  "version": "1.0.0",
+  "description": "base lib for mano",
+  "main": "index.js",
+  "scripts": {
+    "pack-lib": "npm pack ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "ngx-highlight-js": "^13.0.0",
+    "ngx-json-viewer": "^3.0.2"
+  }
+}
