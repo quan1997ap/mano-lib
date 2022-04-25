@@ -1,7 +1,9 @@
 README.md => https://dillinger.io/
 
 1. YAML => JSON hoặc JSON => YAML
+
 https://www.quora.com/How-can-I-convert-YAML-into-JSON-in-JavaScript-frontend-code-not-Node
+
 ```
 function YAMLtoJSON(yamlStr) { 
 	var obj = YAML.parse(yamlStr); 
